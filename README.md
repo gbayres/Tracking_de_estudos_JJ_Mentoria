@@ -11,4 +11,5 @@
     <li>Continuação do desenvolvimento do app "Adopt Me"</li>
     <li>Assistida aula "Props" de "Complete Intro to React, v6"</li>
     <li>Continuação do desenvolvimento do app "Adopt Me"</li>
+    <li>Assistida aula "npm" de "Complete Intro to React, v6"</li>
 <ol>
