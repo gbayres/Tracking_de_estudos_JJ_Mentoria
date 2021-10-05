@@ -1,4 +1,9 @@
 
+<h2>05/10/2021</h2>
+<ol>
+    <li></li>
+</ol>
+
 
 <h2>04/10/2021</h2>
 <ol>
@@ -12,4 +17,5 @@
     <li>Assistida aula "Props" de "Complete Intro to React, v6"</li>
     <li>Continuação do desenvolvimento do app "Adopt Me"</li>
     <li>Assistida aula "npm" de "Complete Intro to React, v6"</li>
+    <li>Assistida aula "Prettier" de "Complete Intro to React, v6"</li>
 <ol>
