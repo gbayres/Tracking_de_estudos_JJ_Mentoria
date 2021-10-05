@@ -1,7 +1,8 @@
 
 <h2>05/10/2021</h2>
 <ol>
-    <li></li>
+    <li>Assistidas aulas de utilização do Monday</li>
+    <li>Reunião com equipe de UX JJ</li>
 </ol>
 
 
