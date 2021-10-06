@@ -4,6 +4,11 @@
     <li>Assistidas aulas de utilização do Monday</li>
     <li>Reunião com equipe de UX JJ</li>
     <li>Assistida aula "ESLint" de "Complete Intro to React, v6"</li>
+    <li>Configuração do ESLint no meu repositório</li>
+    <li>Assistida aula "Git" de "Complete Intro to React, v6"</li>
+    <li>Assistida aula "Parcel" de "Complete Intro to React, v6"</li>
+    <li>Assistida aula "Babel" de "Complete Intro to React, v6"</li>
+    <li>Instalação das ferramentas propostas nas aulas acima</li>
 </ol>
 
 
@@ -20,4 +25,5 @@
     <li>Continuação do desenvolvimento do app "Adopt Me"</li>
     <li>Assistida aula "npm" de "Complete Intro to React, v6"</li>
     <li>Assistida aula "Prettier" de "Complete Intro to React, v6"</li>
+    <li>Configuração do Prettier no meu repositório</li>
 <ol>
