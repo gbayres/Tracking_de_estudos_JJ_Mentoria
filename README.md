@@ -1,3 +1,8 @@
+<h2>06/10/2021</h2>
+<ol>
+    <li></li>
+</ol>
+
 
 <h2>05/10/2021</h2>
 <ol>
@@ -9,6 +14,7 @@
     <li>Assistida aula "Parcel" de "Complete Intro to React, v6"</li>
     <li>Assistida aula "Babel" de "Complete Intro to React, v6"</li>
     <li>Instalação das ferramentas propostas nas aulas acima</li>
+    <li>Assistida aula "JSX" de "Complete Intro to React, v6"</li>
 </ol>
 
 
