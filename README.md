@@ -1,6 +1,6 @@
 <h2>06/10/2021</h2>
 <ol>
-    <h3><i>17:00 => 18:40</i></h3>
+    <i>17:00 => 18:40</i>
     <li>Reunião com equipe de UX JJ</li>
 </ol>
 
