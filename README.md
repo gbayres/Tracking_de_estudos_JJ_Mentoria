@@ -3,6 +3,7 @@
 <ol>
     <li>Assistidas aulas de utilização do Monday</li>
     <li>Reunião com equipe de UX JJ</li>
+    <li>Assistida aula "ESLint" de "Complete Intro to React, v6"</li>
 </ol>
 
 
