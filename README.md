@@ -1,7 +1,12 @@
 <h1>2021</h1>
 <h2>Outubro</h2>
 
+<hr>
+<b>Tempo parcial mensal: 8h20m</b> 
+<hr>
+
 <h3>06/10/2021</h3>
+
 <ol>
     <li><i>(17:00 => 18:40)  </i>Reunião com equipe de UX JJ</li>
     <li><i>(19:00 => 19:17)  </i>Assistida aula "ESLint & React" de "Complete Intro to React, v6" + Configuração do setup</li>
