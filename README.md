@@ -3,6 +3,7 @@
     <li><i>(17:00 => 18:40)  </i>Reunião com equipe de UX JJ</li>
     <li><i>(19:00 => 19:17)  </i>Assistida aula "ESLint & React" de "Complete Intro to React, v6" + Configuração do setup</li>
     <li><i>(22:40 => 22:57)  </i>Assistida aula "Hooks" de "Complete Intro to React, v6"</li>
+    <li><i>(23:00 => 23:06)  </i>Assistida aula "Rules of Hooks and Q&A" de "Complete Intro to React, v6"</li>
 
 </ol>
 
