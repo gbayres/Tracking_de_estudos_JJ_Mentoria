@@ -1,5 +1,4 @@
 <h1>2021</h1>
-<br>
 <h2>Outubro</h2>
 
 <h3>06/10/2021</h3>
@@ -25,6 +24,8 @@
     <li>Assistida aula "Babel" de "Complete Intro to React, v6"</li>
     <li>Instalação das ferramentas propostas nas aulas acima</li>
     <li>Assistida aula "JSX" de "Complete Intro to React, v6"</li>
+    <hr>
+    <b>Tempo Total: 4h00 (aproximado)</b>
 </ol>
 
 
@@ -42,4 +43,6 @@
     <li>Assistida aula "npm" de "Complete Intro to React, v6"</li>
     <li>Assistida aula "Prettier" de "Complete Intro to React, v6"</li>
     <li>Configuração do Prettier no meu repositório</li>
+    <hr>
+    <b>Tempo Total: 2h00 (aproximado)</b> 
 <ol>
