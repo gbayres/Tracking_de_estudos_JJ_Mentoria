@@ -5,6 +5,14 @@
 <b>Tempo parcial mensal: 8h20m</b> 
 <hr>
 
+<h3>07/10/2021</h3>
+
+<ol>
+    <li><i>(20:30 => 20:37)  </i>Assistida aula "Bem vindo(a) ao G4 Fundamentos em Gestão por OKRs" de "Formação G4"</li>
+
+</ol>
+
+
 <h3>06/10/2021</h3>
 
 <ol>
