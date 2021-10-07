@@ -1,8 +1,8 @@
 <h2>06/10/2021</h2>
 <ol>
     <li><i>(17:00 => 18:40)  </i>Reunião com equipe de UX JJ</li>
-    <li><i>(19:00 => 19:17)  </i>Assistida aula "ESLint & React" de "Complete Intro to React, v6" + <br>Configuração do setup</li>
-    <li><i>(19:17 => 19:)  </i></li>
+    <li><i>(19:00 => 19:17)  </i>Assistida aula "ESLint & React" de "Complete Intro to React, v6" + Configuração do setup</li>
+    <li><i>(22:40 => 22:57)  </i>Assistida aula "Hooks" de "Complete Intro to React, v6"</li>
 
 </ol>
 
