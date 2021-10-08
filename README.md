@@ -19,7 +19,6 @@
     <li><i>(21:45 => 21:55)  </i>Assistida aula "Aula 4 - OKRs na prática" de "Formação G4"</li>
     <li><i>(22:25 => 22:50)  </i>Assistida aula "Aula 5 - Case Google - OKRs na prática" de "Formação G4"</li>
     <hr>
-    
     <b>Tempo Total: 1h23m</b>
 
 </ol>
