@@ -2,7 +2,7 @@
 <h2>Outubro</h2>
 
 <hr>
-<b>Tempo parcial mensal: 8h20m</b> 
+<b>Tempo parcial mensal: 9h43m</b> 
 <hr>
 
 <h3>07/10/2021</h3>
@@ -20,7 +20,7 @@
     <li><i>(22:25 => 22:50)  </i>Assistida aula "Aula 5 - Case Google - OKRs na prática" de "Formação G4"</li>
     <hr>
     
-    <b>Tempo Total: 0h33m</b>
+    <b>Tempo Total: 1h23m</b>
 
 </ol>
 
