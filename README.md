@@ -9,6 +9,18 @@
 
 <ol>
     <li><i>(20:30 => 20:37)  </i>Assistida aula "Bem vindo(a) ao G4 Fundamentos em Gestão por OKRs" de "Formação G4"</li>
+    <li><i>(20:37 => 20:41)  </i>Assistida aula "Introdução G4 Fundamentos em Gestão por OKRs por Tallis Gomes" de "Formação G4"</li>
+    <li><i>(20:46 => 20:50)  </i>Assistida aula "Quem é o mentor e o que esperar do curso" de "Formação G4"</li>
+    <li><i>(20:50 => 20:52)  </i>Assistida aula "Onboarding + Download de Materiais" de "Formação G4"</li>
+    <li><i>(20:52 => 20:54)  </i>Assistida aula "Aula 1 - Introdução" de "Formação G4"</li>
+    <li><i>(21:14 => 21:28)  </i>Assistida aula "Aula 2 - Importância das OKRs e suas origens" de "Formação G4"</li>
+    <li><i>(21:30 => 21:43)  </i>Assistida aula "Afterclass #1" de "Formação G4"</li>
+    <li><i>(21:43 => 21:45)  </i>Assistida aula "Aula 3 - Resumo do Módulo + Feedback" de "Formação G4"</li>
+    <li><i>(21:45 => 21:55)  </i>Assistida aula "Aula 4 - OKRs na prática" de "Formação G4"</li>
+    <li><i>(22:25 => 22:50)  </i>Assistida aula "Aula 5 - Case Google - OKRs na prática" de "Formação G4"</li>
+    <hr>
+    
+    <b>Tempo Total: 0h33m</b>
 
 </ol>
 
