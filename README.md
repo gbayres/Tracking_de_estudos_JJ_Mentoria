@@ -21,7 +21,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal: 9h43m</b>
+<b>Tempo parcial mensal: 11h36m</b>
 
 <hr>
 
@@ -43,7 +43,7 @@
     <li><i>(17:00 => 17:02)  </i>Assistida aula "Até a próxima!" de "Formação G4"</li>
     <li><i>(17:02 => 17:04)  </i>Assistida aula "Encerramento G4 - Fundamentos em Gestão por OKRs por Tallis Gomes" de "Formação G4"</li>
     <hr>
-    <b>Tempo Total: </b>
+    <b>Tempo Total: 1h53m </b>
 
 </ol>
 
