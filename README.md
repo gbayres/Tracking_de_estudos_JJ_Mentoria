@@ -4,11 +4,21 @@
 <hr>
 <b>Tempo parcial mensal: 9h43m</b>
 <ol>
-    <h2>Metas individuais</h2>
-    <li><b>Meta imediata: Terminar o módulo 6 do curso "Formação G4"</b></li> 
-    <li>Gerar ideias solicitadas e registrar no Monday</li>
-    <li>Terminar o curso "Complete Intro to React, v6"</li>
-    <li>Terminar o curso "Curso de JavaScript COmpleto do iniciante ao mestre (2021)</li>
+    <h2>Objetivos individuais</h2>
+    <li><s>[topDown] Terminar o módulo 6 do curso "Formação G4"</s></li> 
+    <li> [topDown] Gerar ideias solicitadas e registrar no Monday</li>
+    <li> [bottomUp] Terminar o curso "Complete Intro to React, v6"</li>
+    <li> [bottomUp] Terminar o curso "Curso de JavaScript Completo do iniciante ao mestre (2021)</li>
+</ol>
+
+<ol>
+    <h2>OKRs individuais<h2>
+    <li>Objective: Aprimorar os conhecimentos em frontEnd</li>
+    <ol>
+        <b>Key Results</b>
+        <li>Aumentar as horas estudadas do curso "Complete Intro to React, v6" das atuais 02h03m para 05h41m (concluir o curso)</li>
+        <li>Aumentar a porcentagem de conclusão do curso "Curso de JavaScript Completo do iniciante ao mestre (2021) dos atuais 60% para 75%</li>)
+    </ol>
 </ol>
 <hr>
 
@@ -16,9 +26,19 @@
 
 <ol>
     <li><i>(14:50 => 15:10)  </i>Assistida aula "Afterclass #2" de "Formação G4"</li>
-    <li><i>(15:10 => 15:12)  </i>Assistida aula "Resumo do módulo + Feedback" de "Formação G4"</li>
-    <li><i>(15:12 => 15:14)  </i>Assistida aula "O ciclo de gestão com OKRs" de "Formação G4"</li>
-    <li><i>(15:14 => 15:)  </i>Assistida aula "" de "Formação G4"</li>
+    <li><i>(15:10 => 15:12)  </i>Assistida aula "Aula 6 - Resumo do módulo + Feedback" de "Formação G4"</li>
+    <li><i>(15:12 => 15:14)  </i>Assistida aula "Aula 7 - O ciclo de gestão com OKRs" de "Formação G4"</li>
+    <li><i>(15:14 => 15:20)  </i>Organização dos objetivos</li>
+    <li><i>(15:20 => 15:25)  </i>Assistida aula "Aula 8 - Etapa do Planejamento" de "Formação G4"</li>
+    <li><i>(15:20 => 15:34)  </i>Assistida aula "Aula 9 - Etapa do monitoramento e etapa do fechamento" de "Formação G4"</li>
+    <li><i>(16:00 => 16:14)  </i>Assistida aula "Aula 10 - Case G4 - Desdobramentos de OKRs" de "Formação G4"</li>
+    <li><i>(16:14 => 16:32)  </i>Assistida aula "Afterclass #3" de "Formação G4"</li>
+    <li><i>(16:32 => 16:35)  </i>Assistida aula "Aula 11 - Resumo do módulo + Feedback" de "Formação G4"</li>
+    <li><i>(16:35 => 16:41)  </i>Assistida aula "Aula 12 - As tensões das OKRs" de "Formação G4"</li>
+    <li><i>(16:41 => 16:58)  </i>Assistida aula "Afterclass #4" de "Formação G4"</li>
+    <li><i>(16:58 => 17:00)  </i>Assistida aula "Aula 13 - Conclusão + Feedback" de "Formação G4"</li>
+    <li><i>(17:00 => 17:02)  </i>Assistida aula "Até a próxima!" de "Formação G4"</li>
+    <li><i>(17:02 => 17:04)  </i>Assistida aula "Encerramento G4 - Fundamentos em Gestão por OKRs por Tallis Gomes" de "Formação G4"</li>
     <hr>
     <b>Tempo Total: </b>
 
