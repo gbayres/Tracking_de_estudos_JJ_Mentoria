@@ -5,7 +5,7 @@
 <b>Tempo parcial mensal: 9h43m</b>
 <ol>
     <h3>Metas individuais</h3>
-    <li><i>Meta imediata: Terminar o módulo 6 do curso "Formação G4"</i></li> 
+    <li><b>Meta imediata: Terminar o módulo 6 do curso "Formação G4"</b></li> 
     <li>Gerar ideias solicitadas e registrar no Monday</li>
     <li>Terminar o curso "Complete Intro to React, v6"</li>
     <li>Terminar o curso "Curso de JavaScript COmpleto do iniciante ao mestre (2021)</li>
