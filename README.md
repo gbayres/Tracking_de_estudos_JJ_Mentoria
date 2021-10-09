@@ -1,8 +1,5 @@
 <h1>21/T3</h1>
-<h2>Outubro</h2>
 
-<hr>
-<b>Tempo parcial mensal: 9h43m</b>
 <ol>
     <h2>Objetivos individuais</h2>
     <li><s>[topDown] Terminar o módulo 6 do curso "Formação G4"</s></li> 
@@ -22,6 +19,11 @@
     </ol>
 </ol>
 <hr>
+
+<h2>Outubro</h2>
+
+<hr>
+<b>Tempo parcial mensal: 9h43m</b>
 
 <h3>09/10/2021</h3>
 
