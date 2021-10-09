@@ -4,7 +4,7 @@
 <hr>
 <b>Tempo parcial mensal: 9h43m</b>
 <ol>
-    <b>Metas individuais</b>
+    <h3>Metas individuais</h3>
     <li><i>Meta imediata: Terminar o módulo 6 do curso "Formação G4"</i></li> 
 </ol>
 <hr>
