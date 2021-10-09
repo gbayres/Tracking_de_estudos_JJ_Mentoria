@@ -12,7 +12,7 @@
 </ol>
 
 <ol>
-    <h2>OKRs individuais<h2>
+    <h2>OKRs individuais</h2>
     <li>Objective: Aprimorar os conhecimentos em frontEnd</li>
     <ol>
         <b>Key Results</b>
