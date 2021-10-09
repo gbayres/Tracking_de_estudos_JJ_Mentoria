@@ -21,7 +21,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal: 11h36m</b>
+<b>Tempo parcial mensal: 14h36m</b>
 
 <hr>
 
@@ -42,8 +42,9 @@
     <li><i>(16:58 => 17:00)  </i>Assistida aula "Aula 13 - Conclusão + Feedback" de "Formação G4"</li>
     <li><i>(17:00 => 17:02)  </i>Assistida aula "Até a próxima!" de "Formação G4"</li>
     <li><i>(17:02 => 17:04)  </i>Assistida aula "Encerramento G4 - Fundamentos em Gestão por OKRs por Tallis Gomes" de "Formação G4"</li>
+    <li><i>(17:02 => 20:52)  </i>Quatro sugestões de implementação adicionadas ao Monday</li>
     <hr>
-    <b>Tempo Total: 1h53m </b>
+    <b>Tempo Total: 4h53m </b>
 
 </ol>
 
