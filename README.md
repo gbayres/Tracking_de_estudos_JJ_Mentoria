@@ -13,11 +13,12 @@
 
 <ol>
     <h2>OKRs individuais</h2>
-    <li><h3>Objective: Aprimorar os conhecimentos em frontEnd</h3></li>
+    <h3><li>Objective: Aprimorar os conhecimentos em frontEnd</li></h3>
     <ol>
         <b>Key Results</b>
+        <hr>
         <li>Aumentar as horas estudadas do curso "Complete Intro to React, v6" das atuais 02h03m para 05h41m (concluir o curso)</li>
-        <li>Aumentar a porcentagem de conclusão do curso "Curso de JavaScript Completo do iniciante ao mestre (2021) dos atuais 60% para 75%</li>)
+        <li>Aumentar a porcentagem de conclusão do curso "Curso de JavaScript Completo do iniciante ao mestre (2021) dos atuais 60% para 75%)</li>
     </ol>
 </ol>
 <hr>
