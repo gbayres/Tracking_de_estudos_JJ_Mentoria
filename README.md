@@ -21,9 +21,9 @@
 <hr>
 
 <h2>Outubro</h2>
+<b>Tempo parcial mensal: 9h43m</b>
 
 <hr>
-<b>Tempo parcial mensal: 9h43m</b>
 
 <h3>09/10/2021</h3>
 
