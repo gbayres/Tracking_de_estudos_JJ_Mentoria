@@ -2,8 +2,25 @@
 <h2>Outubro</h2>
 
 <hr>
-<b>Tempo parcial mensal: 9h43m</b> 
+<b>Tempo parcial mensal: 9h43m</b>
+<ol>
+    <h3>Metas individuais</h3>
+    <li></i>Meta imediata: Terminar o módulo 6 do curso "Formação G4"<i></li> 
+</ol>
 <hr>
+
+<h3>09/10/2021</h3>
+
+<ol>
+    <li><i>(14:50 => 15:10)  </i>Assistida aula "Afterclass #2" de "Formação G4"</li>
+    <li><i>(15:10 => 15:12)  </i>Assistida aula "Resumo do módulo + Feedback" de "Formação G4"</li>
+    <li><i>(15:12 => 15:14)  </i>Assistida aula "O ciclo de gestão com OKRs" de "Formação G4"</li>
+    <li><i>(15:14 => 15:)  </i>Assistida aula "" de "Formação G4"</li>
+    <hr>
+    <b>Tempo Total: </b>
+
+</ol>
+
 
 <h3>07/10/2021</h3>
 
