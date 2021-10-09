@@ -13,7 +13,7 @@
 
 <ol>
     <h2>OKRs individuais</h2>
-    <li>Objective: Aprimorar os conhecimentos em frontEnd</li>
+    <li><h3>Objective: Aprimorar os conhecimentos em frontEnd</h3></li>
     <ol>
         <b>Key Results</b>
         <li>Aumentar as horas estudadas do curso "Complete Intro to React, v6" das atuais 02h03m para 05h41m (concluir o curso)</li>
