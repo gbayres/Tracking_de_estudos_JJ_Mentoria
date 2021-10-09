@@ -17,11 +17,21 @@
         <li>Aumentar as horas estudadas do curso "Complete Intro to React, v6" das atuais 02h03m para 05h41m (concluir o curso)</li>
         <li>Aumentar a porcentagem de conclusão do curso "Curso de JavaScript Completo do iniciante ao mestre (2021)" dos atuais 60% para 75%</li>
     </ol>
+    <h3><li>Objective: Ser um funcionário modelo</li></h3>
+    <ol>
+        <b>Key Results</b>
+        <hr>
+        <li>Ter 100% das demandas topDown concluídas</li>
+        <li>Atender a 100% das demandas topDown em no máximo 80% do prazo estipulado</li>
+        <li>Tentar convencer 5 amigos a assinarem JJ</li>
+        <li>Dar pelo menos 5 feedbacks ou sugestões por mês</li>
+        <li>Completar os cursos de React propostos</li>
+    </ol>
 </ol>
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal: 14h36m</b>
+<b>Tempo parcial mensal: 13h56m</b>
 
 <hr>
 
@@ -42,9 +52,10 @@
     <li><i>(16:58 => 17:00)  </i>Assistida aula "Aula 13 - Conclusão + Feedback" de "Formação G4"</li>
     <li><i>(17:00 => 17:02)  </i>Assistida aula "Até a próxima!" de "Formação G4"</li>
     <li><i>(17:02 => 17:04)  </i>Assistida aula "Encerramento G4 - Fundamentos em Gestão por OKRs por Tallis Gomes" de "Formação G4"</li>
-    <li><i>(17:02 => 20:52)  </i>Quatro sugestões de implementação adicionadas ao Monday</li>
+    <li><i>(17:02 => 19:52)  </i>Quatro sugestões de implementação adicionadas ao Monday</li>
+    <li><i>(19:52 => 20:12)  </i>Organização de OKRs individuais</li>
     <hr>
-    <b>Tempo Total: 4h53m </b>
+    <b>Tempo Total: 4h13m </b>
 
 </ol>
 
