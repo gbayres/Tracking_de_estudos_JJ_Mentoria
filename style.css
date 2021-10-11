@@ -1,7 +1,10 @@
+html {
+    zoom: 150%;
+}
+
 body {
     padding: 0;
     margin: 0;
-    /* zoom: 150%; */
 }
 
 #all {
