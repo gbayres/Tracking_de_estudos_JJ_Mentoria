@@ -31,9 +31,19 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal: 13h56m</b>
+<b>Tempo parcial mensal: 17h56m</b>
 
 <hr>
+
+<h3>10/10/2021</h3>
+
+<ol>
+    <li><i>(19:20 => 23:20)  </i>Esboço protótipo do album de figurinhas</li>
+    <hr>
+    <b>Tempo Total: 4h00m </b>
+
+</ol>
+
 
 <h3>09/10/2021</h3>
 
