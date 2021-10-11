@@ -31,7 +31,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal: 19h20m</b>
+<b>Tempo parcial mensal: 19h45m</b>
 
 <hr>
 
@@ -39,8 +39,9 @@
 
 <ol>
     <li><i>(9:00 => 10:10)  </i>Estudo de bug na plataforma relativo ao "#sirena_button" e registros no Monday</li>
+    <li><i>(10:10 => 10:35)  </i>Novas ideias sobre o álbum de figurinhas no Monday</li>
     <hr>
-    <b>Tempo Total: 1h10m </b>
+    <b>Tempo Total: 1h35m </b>
 
 </ol>
 
