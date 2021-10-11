@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <!-- https://cssdeck.com/labs/pure-css3-page-flip-effect -->
+    <div id="all">
+      <div id="page-flip">
+          <div id="r1">
+          <div id="p1">
+          <div>
+            <div></div>
+          </div>
+        </div>
+      </div>
+      <div id="p2">
+        <div></div>
+      </div>
+      <div id="r3">
+        <div id="p3">
+          <div>
+            <div></div>
+          </div>
+        </div>
+      </div>
+      <div class="s">
+        <div id="s3">
+          <div id="sp3"></div>
+        </div>
+      </div>
+      <div class="s" id="s4">
+        <div id="s2">
+          <div id="sp2"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>
