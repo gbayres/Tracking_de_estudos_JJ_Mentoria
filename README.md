@@ -31,7 +31,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal: 18h10m</b>
+<b>Tempo parcial mensal: 19h20m</b>
 
 <hr>
 
