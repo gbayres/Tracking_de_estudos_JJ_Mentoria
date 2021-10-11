@@ -31,7 +31,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal: 19h45m</b>
+<b>Tempo parcial mensal (líquido): 19h45m</b>
 
 <hr>
 
