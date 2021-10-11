@@ -35,6 +35,15 @@
 
 <hr>
 
+<h3>11/10/2021</h3>
+
+<ol>
+    <li><i>(9:00 => 10:10)  </i>Estudo de bug na plataforma relativo ao "#sirena_button" e registros no Monday</li>
+    <hr>
+    <b>Tempo Total: 1h10m </b>
+
+</ol>
+
 <h3>10/10/2021</h3>
 
 <ol>
