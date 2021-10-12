@@ -31,7 +31,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 23h55m</b>
+<b>Tempo parcial mensal (líquido): 26h48m</b>
 
 <hr>
 
@@ -53,7 +53,7 @@
     <li><i>(19:00 => 19:05)  </i>Assistida aula "Strict Mode" de "Complete Intro to React, v6"</li>
     <li><i>(19:05 => 19:10)  </i>Assistida aula "React Dev Tools" de "Complete Intro to React, v6"</li>
     <hr>
-    <b>Tempo Total: 03h46m </b>
+    <b>Tempo Total: 04h06m </b>
 
 </ol>
 
@@ -86,7 +86,7 @@
     <li><i>(15:12 => 15:14)  </i>Assistida aula "Aula 7 - O ciclo de gestão com OKRs" de "Formação G4"</li>
     <li><i>(15:14 => 15:20)  </i>Organização dos objetivos</li>
     <li><i>(15:20 => 15:25)  </i>Assistida aula "Aula 8 - Etapa do Planejamento" de "Formação G4"</li>
-    <li><i>(15:20 => 15:34)  </i>Assistida aula "Aula 9 - Etapa do monitoramento e etapa do fechamento" de "Formação G4"</li>
+    <li><i>(15:25 => 15:34)  </i>Assistida aula "Aula 9 - Etapa do monitoramento e etapa do fechamento" de "Formação G4"</li>
     <li><i>(16:00 => 16:14)  </i>Assistida aula "Aula 10 - Case G4 - Desdobramentos de OKRs" de "Formação G4"</li>
     <li><i>(16:14 => 16:32)  </i>Assistida aula "Afterclass #3" de "Formação G4"</li>
     <li><i>(16:32 => 16:35)  </i>Assistida aula "Aula 11 - Resumo do módulo + Feedback" de "Formação G4"</li>
@@ -95,10 +95,10 @@
     <li><i>(16:58 => 17:00)  </i>Assistida aula "Aula 13 - Conclusão + Feedback" de "Formação G4"</li>
     <li><i>(17:00 => 17:02)  </i>Assistida aula "Até a próxima!" de "Formação G4"</li>
     <li><i>(17:02 => 17:04)  </i>Assistida aula "Encerramento G4 - Fundamentos em Gestão por OKRs por Tallis Gomes" de "Formação G4"</li>
-    <li><i>(17:02 => 19:52)  </i>Quatro sugestões de implementação adicionadas ao Monday</li>
+    <li><i>(17:04 => 19:52)  </i>Quatro sugestões de implementação adicionadas ao Monday</li>
     <li><i>(19:52 => 20:12)  </i>Organização de OKRs individuais</li>
     <hr>
-    <b>Tempo Total: 4h13m </b>
+    <b>Tempo Total: 4h56m </b>
 
 </ol>
 
