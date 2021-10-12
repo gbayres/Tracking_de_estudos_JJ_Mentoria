@@ -32,6 +32,7 @@
 
 <h2>Outubro</h2>
 <b>Tempo parcial mensal (líquido): 26h48m</b>
+<br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
