@@ -31,7 +31,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 19h45m</b>
+<b>Tempo parcial mensal (líquido): 19h59m</b>
 
 <hr>
 
@@ -40,8 +40,9 @@
 <ol>
     <li><i>(9:00 => 10:10)  </i>Estudo de bug na plataforma relativo ao "#sirena_button" e registros no Monday</li>
     <li><i>(10:10 => 10:35)  </i>Novas ideias sobre o álbum de figurinhas no Monday</li>
+    <li><i>(21:10 => 21:24)  </i>Assistida aula "ESLint & Hooks" de "Complete Intro to React, v6"</li>
     <hr>
-    <b>Tempo Total: 1h35m </b>
+    <b>Tempo Total: 1h49m </b>
 
 </ol>
 
