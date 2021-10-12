@@ -31,7 +31,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 21h15m</b>
+<b>Tempo parcial mensal (líquido): 23h55m</b>
 
 <hr>
 
@@ -42,8 +42,18 @@
     <li><i>(12:00 => 12:25)  </i>Assistida aula "Animal & Breed Selector" de "Complete Intro to React, v6"</li>
     <li><i>(12:25 => 12:31)  </i>Assistida aula "Hooks Q&A" de "Complete Intro to React, v6"</li>
     <li><i>(13:00 => 13:30)  </i>Assistida aula "useEffect & Fetching API Data" de "Complete Intro to React, v6"</li>
+    <li><i>(13:30 => 14:00)  </i>Assistida aula "Custom Hooks" de "Complete Intro to React, v6"</li>
+    <li><i>(17:00 => 17:32)  </i>Entendendo o código apresentado na aula "Custom Hooks" de "Complete Intro to React, v6"</li>
+    <li><i>(17:32 => 17:45)  </i>Assistida aula "Handling User Input" de "Complete Intro to React, v6"</li>
+    <li><i>(17:45 => 18:00)  </i>Assistida aula "Component Composition" de "Complete Intro to React, v6"</li>
+    <li><i>(18:00 => 18:15)  </i>Entendendo o código apresentado na aula "Component Composition" de "Complete Intro to React, v6"</li>
+    <li><i>(18:15 => 18:25)  </i>Assistida aula "Refactoring the Pet Component" de "Complete Intro to React, v6"</li>
+    <li><i>(18:25 => 18:50)  </i>Entendendo o código apresentado na aula "Refactoring the Pet Component" de "Complete Intro to React, v6"</li>
+    <li><i>(18:50 => 19:00)  </i>Assistida aula "Dev Environment" de "Complete Intro to React, v6"</li>
+    <li><i>(19:00 => 19:05)  </i>Assistida aula "Strict Mode" de "Complete Intro to React, v6"</li>
+    <li><i>(19:05 => 19:10)  </i>Assistida aula "React Dev Tools" de "Complete Intro to React, v6"</li>
     <hr>
-    <b>Tempo Total: 01h16m </b>
+    <b>Tempo Total: 03h46m </b>
 
 </ol>
 
