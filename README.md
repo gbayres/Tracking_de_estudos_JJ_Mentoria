@@ -31,9 +31,21 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 19h59m</b>
+<b>Tempo parcial mensal (líquido): 21h15m</b>
 
 <hr>
+
+<h3>12/10/2021</h3>
+
+<ol>
+    <li><i>(11:10 => 11:35)  </i>Resolvendo bug no curso "Complete Intro to React, v6"</li>
+    <li><i>(12:00 => 12:25)  </i>Assistida aula "Animal & Breed Selector" de "Complete Intro to React, v6"</li>
+    <li><i>(12:25 => 12:31)  </i>Assistida aula "Hooks Q&A" de "Complete Intro to React, v6"</li>
+    <li><i>(13:00 => 13:30)  </i>Assistida aula "useEffect & Fetching API Data" de "Complete Intro to React, v6"</li>
+    <hr>
+    <b>Tempo Total: 01h16m </b>
+
+</ol>
 
 <h3>11/10/2021</h3>
 
