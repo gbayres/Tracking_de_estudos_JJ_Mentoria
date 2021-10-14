@@ -17,7 +17,7 @@
         <li>Aumentar as horas estudadas do curso "Complete Intro to React, v6" das atuais 02h03m para 05h41m (concluir o curso)</li>
         <li>Aumentar a porcentagem de conclusão do curso "Curso de JavaScript Completo do iniciante ao mestre (2021)" dos atuais 60% para 75%</li>
     </ol>
-    <h3><li>Objective: Ser um funcionário modelo</li></h3>
+    <h3><li>Objective: Ser um profissional JJ modelo</li></h3>
     <ol>
         <b>Key Results</b>
         <hr>
@@ -31,11 +31,35 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 26h48m</b>
+<b>Tempo parcial mensal (líquido): 27h18m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
+
+<h3>14/10/2021</h3>
+
+<ol>
+    <li><i>(18:50 => 19:10)  </i> Assistida aula "Class Components" de "Complete Intro to React, v6"</li>
+    <li><i>(19:10 => 19:25)  </i> Entendendo o código de "Class Components" de "Complete Intro to React, v6"</li>
+    <li><i>(19:25 => 19:30)  </i> Assistida aula "Loading States & Lifecycle Methods" de "Complete Intro to React, v6"</li>
+    <li><i>(19:30 => 19:35)  </i> Entendendo o código de "Loading States & Lifecycle Methods" de "Complete Intro to React, v6"</li>
+    <li><i>(19:35 => 19:50)  </i> Assistida aula "Class Properties" de "Complete Intro to React, v6"</li>
+    <li><i>(19:50 => 20:10)  </i> Tentativa de entender bug no curso "Complete Intro to React, v6"</li>
+    <hr>
+    <b>Tempo Total: 0h00m </b>
+</ol>
+
+<h3>13/10/2021</h3>
+
+<ol>
+    <li><i>(18:50 => 19:02)  </i> Assistida aula "React Router Route" de "Complete Intro to React, v6"</li>
+    <li><i>(19:02 => 19:10)  </i> Entendendo o código de "React Router Route" de "Complete Intro to React, v6"</li>
+    <li><i>(19:10 => 19:15)  </i> Assistida aula "React Router Link Tag" de "Complete Intro to React, v6"</li>
+    <li><i>(19:15 => 19:20)  </i> Entendendo o código de "React Router Link Tag" de "Complete Intro to React, v6"</li>
+    <hr>
+    <b>Tempo Total: 0h30m </b>
+</ol>
 
 <h3>12/10/2021</h3>
 
