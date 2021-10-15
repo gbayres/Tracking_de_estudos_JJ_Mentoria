@@ -31,7 +31,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 27h18m</b>
+<b>Tempo parcial mensal (líquido): 30h15m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
@@ -46,8 +46,11 @@
     <li><i>(19:30 => 19:35)  </i> Entendendo o código de "Loading States & Lifecycle Methods" de "Complete Intro to React, v6"</li>
     <li><i>(19:35 => 19:50)  </i> Assistida aula "Class Properties" de "Complete Intro to React, v6"</li>
     <li><i>(19:50 => 20:10)  </i> Tentativa de entender bug no curso "Complete Intro to React, v6"</li>
+    <li><i>(20:10 => 21:16)  </i> Tentativa de resolver bug envolvendo o Babel</li>
+    <li><i>(21:16 => 21:35)  </i> Assistida aula "Manage State in a Class Component" de "Complete Intro to React, v6"</li>
+    <li><i>(21:35 => 21:47)  </i> Assistida aula "Interactive Class Component" de "Complete Intro to React, v6"</li>
     <hr>
-    <b>Tempo Total: 0h00m </b>
+    <b>Tempo Total: 2h57m </b>
 </ol>
 
 <h3>13/10/2021</h3>

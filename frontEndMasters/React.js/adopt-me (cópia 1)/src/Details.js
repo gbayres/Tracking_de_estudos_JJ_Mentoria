@@ -1,6 +1,5 @@
 import { Component } from 'react';
 import { withRouter } from 'react-router-dom';
-import Carousel from "./Carousel"
 
 class Details extends Component {
     constructor () {
@@ -19,7 +18,7 @@ class Details extends Component {
     };
 
     render() {
-        const {animal, breed, city, state, description, name, images} = this.state;
+        const {animal, breed, city, state, description, name} = this.state;
 
         if (this.state.loading) {
             return <h2>Loading</h2>
@@ -27,7 +26,6 @@ class Details extends Component {
 
         return (
             <div className="details">
-                <Carousel images={images}/>;
                 <div>
                     <h1>{name}</h1>
                     <h2>{`${animal} - ${breed} -${city}, ${state} `}</h2>
