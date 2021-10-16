@@ -15,7 +15,10 @@
         <b>Key Results</b>
         <hr>
         <li>Aumentar as horas estudadas do curso "Complete Intro to React, v6" das atuais 02h03m para 05h41m (concluir o curso)</li>
-        <li>Aumentar a porcentagem de conclusão do curso "Curso de JavaScript Completo do iniciante ao mestre (2021)" dos atuais 60% para 75%</li>
+        <li>Aumentar a porcentagem de conclusão do curso "Curso de JavaScript Completo do iniciante ao mestre (2021)" dos atuais 60% para 65%</li>
+        <li>Refazer o curso "React Completo do básico ao avançado"</li>
+        <li>Recriar o app proposto em "Complete Intro to React, v6"</li>
+        <li>Transpor o clone da plataforma JJ para React</li>
     </ol>
     <h3><li>Objective: Ser um profissional JJ modelo</li></h3>
     <ol>
@@ -31,7 +34,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 33h13m</b>
+<b>Tempo parcial mensal (líquido): 34h12m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
@@ -44,8 +47,12 @@
     <li><i>(12:10 => 12:25) </i> Análise de código relativo às duas últimas aulas</li>
     <li><i>(12:25 => 12:40) </i> Assistida aula "Context" de "Complete Intro to React, v6"</li>
     <li><i>(13:00 => 13:20) </i> Assistida aula "Implementing ThemeContext and Q&A" de "Complete Intro to React, v6"</li>
+    <li><i>(17:23 => 17:50) </i> Assistida aula "Portals, Refs, and Q&A" de "Complete Intro to React, v6"</li>
+    <li><i>(18:10 => 18:27) </i> Assistida aula "Implementing modals" de "Complete Intro to React, v6"</li>
+    <li><i>(18:27 => 18:42) </i> Assistida aula "Wrapping Up" de "Complete Intro to React, v6"</li>
+    <li><b>Curso "Complete Intro to React, v6" FINALIZADO</b></li>
     <hr>
-    <b>Tempo Total: 1h20m </b>
+    <b>Tempo Total: 2h19m </b>
 </ol>
 
 <h3>15/10/2021</h3>
