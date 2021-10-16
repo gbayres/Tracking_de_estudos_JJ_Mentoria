@@ -1,12 +1,17 @@
 import { render } from "react-dom";
 import SearchParams from "./SearchParams";
-import { StrictMode } from "react";
+import { StrictMode, useState } from "react";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 import Details from "./Details";
+import ThemeContext from "./ThemeContext";
 
 
 const App = () => {
+
+  const theme = useState("black");
   return (
+  
+  <ThemeContext.Provider value={theme}>
     <div>
 
       <Router>
@@ -18,7 +23,7 @@ const App = () => {
           
           <Switch>
             <Route path="/details/:id">
-              <Details />
+              <Details theme={theme}/>
             </Route>
             <Route path="/">
               <SearchParams />
@@ -27,6 +32,8 @@ const App = () => {
 
       </Router>
     </div>
+
+    </ThemeContext.Provider>
   );
 };
 

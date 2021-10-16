@@ -31,16 +31,29 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 31h53m</b>
+<b>Tempo parcial mensal (líquido): 33h13m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
 
+<h3>16/10/2021</h3>
+<ol>
+    <li><i>(11:40 => 12:05) </i> Assistida aula "Error Boundaries" de "Complete Intro to React, v6"</li>
+    <li><i>(12:05 => 12:10) </i> Assistida aula "Redirect on Error" de "Complete Intro to React, v6"</li>
+    <li><i>(12:10 => 12:25) </i> Análise de código relativo às duas últimas aulas</li>
+    <li><i>(12:25 => 12:40) </i> Assistida aula "Context" de "Complete Intro to React, v6"</li>
+    <li><i>(13:00 => 13:20) </i> Assistida aula "Implementing ThemeContext and Q&A" de "Complete Intro to React, v6"</li>
+    <hr>
+    <b>Tempo Total: 1h20m </b>
+</ol>
+
 <h3>15/10/2021</h3>
 <ol>
     <li><i>(09:38 => 10:46) </i> Discussão envolvendo a resolução do bug do #sirena_button </li>
     <li><i>(11:30 => 12:00) </i> Apresentação à equipe de devs JJ </li>
+    <hr>
+    <b>Tempo Total: 1h38m </b>
 </ol>
 
 <h3>14/10/2021</h3>
