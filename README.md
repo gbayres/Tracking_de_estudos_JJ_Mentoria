@@ -4,7 +4,8 @@
     <h2>Objetivos individuais</h2>
     <li><s>[topDown] Terminar o módulo 6 do curso "Formação G4"</s></li> 
     <li><s>[topDown] Gerar ideias solicitadas e registrar no Monday</s></li>
-    <li> [bottomUp] Terminar o curso "Complete Intro to React, v6"</li>
+    <li><s> [bottomUp] Terminar o curso "Complete Intro to React, v6" </s></li>
+    <li> [bottomUp] Terminar o curso "React Completo do básico ao avançado"</li>
     <li> [bottomUp] Terminar o curso "Curso de JavaScript Completo do iniciante ao mestre (2021)</li>
 </ol>
 
