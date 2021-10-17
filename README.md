@@ -35,17 +35,24 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 44h36m</b>
+<b>Tempo parcial mensal (líquido): 45h17m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
 <h3>17/10/2021</h3>
 <ol>
-    <li><i>(07:00 => 10:52)</i> Continuação da releitura do projeto "Adopt-me" (checkpoint: Error Boundaries)</li>
-    <li><i>(14:00 => 17:10 )</i> Continuação da releitura do projeto "Adopt-me" (checkpoint: Context)</li>
+    <li><i>(07:00 => 10:52) </i> Continuação da releitura do projeto "Adopt-me" (checkpoint: Error Boundaries)</li>
+    <li><i>(14:00 => 17:10) </i> Continuação da releitura do projeto "Adopt-me" (checkpoint: Context)</li>
+    <li><i>(17:20 => 17:26)</i> Assistida aula "Introduction" de "Intermediate React, v3"</li>
+    <li><i>(17:26 => 17:33)</i> Assistida aula "BOM - Introdução" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(17:33 => 17:39)</i> Assistida aula "BOM - History" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(17:39 => 17:44)</i> Assistida aula "BOM - Location" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(17:44 => 17:48)</i> Assistida aula "BOM - Navigator" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(17:48 => 17:50)</i> Assistida aula "BOM - Screen" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(17:50 => 18:01)</i> Assistida aula "BOM - Métodos de window" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
     <hr>
-    <b>Tempo Total: 07h02m </b>
+    <b>Tempo Total: 07h43m </b>
 </ol>
 
 
