@@ -1,12 +1,11 @@
 <h1>21/T4</h1>
 
 <ol>
-    <h2>Objetivos individuais</h2>
+    <h2>Prioridades</h2>
     <li><s>[topDown] Terminar o módulo 6 do curso "Formação G4"</s></li> 
     <li><s>[topDown] Gerar ideias solicitadas e registrar no Monday</s></li>
     <li><s> [bottomUp] Terminar o curso "Complete Intro to React, v6" </s></li>
-    <li> [bottomUp] Terminar o curso "React Completo do básico ao avançado"</li>
-    <li> [bottomUp] Terminar o curso "Curso de JavaScript Completo do iniciante ao mestre (2021)</li>
+    <li>[bottomUp] Terminar o curso "Intermediate React, v3"</li>
 </ol>
 
 <ol>
@@ -15,10 +14,11 @@
     <ol>
         <b>Key Results</b>
         <hr>
-        <li>Aumentar as horas estudadas do curso "Complete Intro to React, v6" das atuais 02h03m para 05h41m (concluir o curso)</li>
+        <li><s>Aumentar as horas estudadas do curso "Complete Intro to React, v6" das atuais 02h03m para 05h41m (concluir o curso)</s></li>
         <li>Aumentar a porcentagem de conclusão do curso "Curso de JavaScript Completo do iniciante ao mestre (2021)" dos atuais 60% para 65%</li>
         <li>Refazer o curso "React Completo do básico ao avançado"</li>
-        <li>Recriar o app proposto em "Complete Intro to React, v6"</li>
+        <li><s>Recriar o app proposto em "Complete Intro to React, v6"</s></li>
+        <li>Terminar o curso "Intermediate React, v3"</li>
         <li>Transpor o clone da plataforma JJ para React</li>
     </ol>
     <h3><li>Objective: Ser um profissional JJ modelo</li></h3>
