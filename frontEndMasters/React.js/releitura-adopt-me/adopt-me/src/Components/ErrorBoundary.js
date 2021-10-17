@@ -3,14 +3,13 @@ import { Link } from "react-router-dom";
 
 class ErrorBoundary extends Component {
     
-    state = { hasError : false };
-
-    static getDerivedStateFromError(){
-        return { hasError: true };
+    constructor() {
+        super()
+        this.state = { hasError : false };
     }
 
-    componentDidCatch(error, info){
-        console.log("ErrorBoundary caught an error", error, info)
+    componentDidCatch (error, info) {        
+        Object.assign(this.state, {hasError:true})
     }
 
     render() {
@@ -21,9 +20,10 @@ class ErrorBoundary extends Component {
                     to back to the home page or wait five seconds.
                 </h2>
             )
+        } else {
+            return this.props.children;
+        
         }
-
-        return this.props.children;
     }
 
 

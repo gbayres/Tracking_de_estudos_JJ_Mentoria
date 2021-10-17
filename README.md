@@ -35,16 +35,17 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 41h26m</b>
+<b>Tempo parcial mensal (líquido): 44h36m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
 <h3>17/10/2021</h3>
 <ol>
-    <li><i>(07:00 => 10:52)</i> Continuação da releitura do projeto "Adopt-me"</li>
+    <li><i>(07:00 => 10:52)</i> Continuação da releitura do projeto "Adopt-me" (checkpoint: Error Boundaries)</li>
+    <li><i>(14:00 => 17:10 )</i> Continuação da releitura do projeto "Adopt-me"</li>
     <hr>
-    <b>Tempo Total: 03h52m </b>
+    <b>Tempo Total: 07h02m </b>
 </ol>
 
 

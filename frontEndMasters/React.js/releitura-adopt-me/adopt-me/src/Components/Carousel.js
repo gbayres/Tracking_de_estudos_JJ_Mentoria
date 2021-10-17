@@ -4,10 +4,6 @@ const Carousel = (props) => {
     const [active, setActive] = useState(0);
     let { images } = props;
 
-    if (!images.length) {
-        images = ["http://pets-images.dev-apis.com/pets/none.jpg"];
-    }
-
     const handleIndexClick = (e) => {
         setActive(+e.target.dataset.index)
     }

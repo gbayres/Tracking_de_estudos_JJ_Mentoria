@@ -1,6 +1,7 @@
 import { useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import Carousel from "./Carousel";
+import ErrorBoundary from './ErrorBoundary';
 import { withRouter } from 'react-router-dom';
 
 const Details = () => {
@@ -10,7 +11,7 @@ const Details = () => {
     let { id } = useParams();
    
 
-    useEffect (() => {
+    useEffect (() => { 
         
         fetchPets()
     
@@ -18,21 +19,24 @@ const Details = () => {
             const res = await fetch(
                 `http://pets-v2.dev-apis.com/pets?id=${id}`
             );
-
             const json = await res.json();
-            
-            console.log(json.pets)
+        
             setPets(json.pets)
             setLoading(false)
         }
 
     }, []);
-    
         
     if (loading) {
         return(
             <h2>Loading...</h2>
         )
+    } else if (!pets[0]){
+        console.log("Não tem pet")
+        return(
+            <h2>Opa, não tem pet!</h2>
+        )
+
     } else {
 
         const { animal, breed, city, state, description, name, images } = pets[0];
@@ -52,4 +56,12 @@ const Details = () => {
     
 }
 
-export default withRouter(Details)
+const DetailsWithRouter = withRouter(Details);
+
+export default function DetailsErrorsBoundary(props) {
+    return (
+        <ErrorBoundary>
+            <DetailsWithRouter {...props}/>
+        </ErrorBoundary>
+    )
+}
