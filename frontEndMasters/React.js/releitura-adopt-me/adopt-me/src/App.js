@@ -1,5 +1,5 @@
 import SearchParams from "./Components/SearchParams";
-import Details from "./Components/Details2";
+import Details from "./Components/Details";
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 
 const App = () => {
