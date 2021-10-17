@@ -43,7 +43,7 @@
 <h3>17/10/2021</h3>
 <ol>
     <li><i>(07:00 => 10:52)</i> Continuação da releitura do projeto "Adopt-me" (checkpoint: Error Boundaries)</li>
-    <li><i>(14:00 => 17:10 )</i> Continuação da releitura do projeto "Adopt-me"</li>
+    <li><i>(14:00 => 17:10 )</i> Continuação da releitura do projeto "Adopt-me" (checkpoint: Context)</li>
     <hr>
     <b>Tempo Total: 07h02m </b>
 </ol>
