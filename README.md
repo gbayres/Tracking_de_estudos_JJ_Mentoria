@@ -2,10 +2,10 @@
 
 <ol>
     <h2>Prioridades</h2>
+    <li>[bottomUp] Terminar o curso "Intermediate React, v3"</li>
     <li><s>[topDown] Terminar o módulo 6 do curso "Formação G4"</s></li> 
     <li><s>[topDown] Gerar ideias solicitadas e registrar no Monday</s></li>
     <li><s> [bottomUp] Terminar o curso "Complete Intro to React, v6" </s></li>
-    <li>[bottomUp] Terminar o curso "Intermediate React, v3"</li>
 </ol>
 
 <ol>
