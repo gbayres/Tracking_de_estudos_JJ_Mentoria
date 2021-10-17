@@ -35,7 +35,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 34h12m</b>
+<b>Tempo parcial mensal (líquido): 37h34m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
@@ -52,8 +52,9 @@
     <li><i>(18:10 => 18:27) </i> Assistida aula "Implementing modals" de "Complete Intro to React, v6"</li>
     <li><i>(18:27 => 18:42) </i> Assistida aula "Wrapping Up" de "Complete Intro to React, v6"</li>
     <li><b>Curso "Complete Intro to React, v6" FINALIZADO</b></li>
+    <li><i>(19:10 => 22:32 )</i> Início da releitura do projeto "Adopt-me" (checkpoint: React Router)</li>
     <hr>
-    <b>Tempo Total: 2h19m </b>
+    <b>Tempo Total: 5h41m </b>
 </ol>
 
 <h3>15/10/2021</h3>
