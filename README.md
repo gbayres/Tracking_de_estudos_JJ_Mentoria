@@ -35,11 +35,18 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 37h34m</b>
+<b>Tempo parcial mensal (líquido): 41h26m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
+<h3>17/10/2021</h3>
+<ol>
+    <li><i>(07:00 => 10:52)</i> Continuação da releitura do projeto "Adopt-me"</li>
+    <hr>
+    <b>Tempo Total: 03h52m </b>
+</ol>
+
 
 <h3>16/10/2021</h3>
 <ol>
