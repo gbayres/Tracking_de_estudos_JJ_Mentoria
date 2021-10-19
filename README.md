@@ -2,6 +2,9 @@
 
 <ol>
     <h2>Prioridades</h2>
+    <li>[topDown] Pesquisar curso Wordpress </li>
+    <li>[topDown] Planejar página simulado </li>
+    <li>[bottomUp] Avançar no curso "Curso de JavaScript Completo do iniciante ao mestre (2021)"</li>
     <li>[bottomUp] Terminar o curso "Intermediate React, v3"</li>
     <li><s>[topDown] Terminar o módulo 6 do curso "Formação G4"</s></li> 
     <li><s>[topDown] Gerar ideias solicitadas e registrar no Monday</s></li>
@@ -35,11 +38,31 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 45h17m</b>
+<b>Tempo parcial mensal (líquido): 58h40m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
+<h3>18/10/2021</h3>
+<ol>
+    <li><i>(08:10 => 08:15) </i> Assistida aula "BOM - scrollTo() e scrollBy()" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(08:15 => 08:26) </i> Assistida aula "BOM - Eventos" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(08:26 => 08:28) </i> Assistida aula "BOM - Desafio: scroll" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(08:28 => 08:36) </i> Resolvendo desafio Scroll de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(08:43 => 08:53) </i> Assistida aula "BOM - resolução: desafio" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(09:00 => 09:22) </i> Assistida aula "Estilização - introdução" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(09:22 => 09:24) </i> Assistida aula "Estilização - exercício proposto: Marcar link ativo no scroll" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(09:24 => 10:41) </i> Resolvendo desafio "Marcar link ativo no scroll" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(10:41 => 11:06) </i> Assistida aula "Estilização - resolução: link ativo no scroll" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(11:06 => 11:14) </i> Assistida aula "Estilização - exercício proposto: Background paralax" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(11:14 => 12:05) </i> Entendendo o exercício anterior + Discussões com Gustavo</li>
+    <li><i>(12:18 => 17:00) </i> Esboçando rota de resolução de simulados</li>
+    <li><i>(17:00 => 18:00) </i> Reunião</li>
+    <li><i>(18:00 => 22:00) </i> Início da implementação da função highlight</li>
+    <hr>
+    <b>Tempo Total: 13h23m </b>
+</ol>
+
 <h3>17/10/2021</h3>
 <ol>
     <li><i>(07:00 => 10:52) </i> Continuação da releitura do projeto "Adopt-me" (checkpoint: Error Boundaries)</li>
