@@ -38,11 +38,20 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 58h40m</b>
+<b>Tempo parcial mensal (líquido): 64h50m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
+<h3>19/10/2021</h3>
+<ol>
+    <li><i>(10:30 => 12:00)</i> Tentativa de progresso na função highlight com o Mateus</li>
+    <li><i>(18:00 => 22:40)</i> Tentativa de progresso na função highlight sozinho</li>
+    <hr>
+    <b>Tempo Total: 06h10m </b>
+</ol>
+
+
 <h3>18/10/2021</h3>
 <ol>
     <li><i>(08:10 => 08:15) </i> Assistida aula "BOM - scrollTo() e scrollBy()" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
