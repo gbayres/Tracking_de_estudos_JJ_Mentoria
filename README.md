@@ -43,6 +43,13 @@
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
+<h3>21/10/2021</h3>
+<ol>
+    <li><i>(11:00 => 12:24)</i> Reunião com Gustavo</li>
+    <hr>
+    <b>Tempo Total: xxhxxm </b>
+</ol>
+
 <h3>20/10/2021</h3>
 <ol>
     <li><i>(04:48 => 06:50)</i> Trabalhando na função highlight</li>
