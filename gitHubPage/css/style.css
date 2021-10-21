@@ -46,7 +46,7 @@ body {
     width: 285px;
     height: 388px;
     background-size: 285px 388px;
-    background-image: url(././assets/capa\ album.png);
+    background-image: url(../assets/capa\ album.png);
 }
 
 #p1 > div > div {
@@ -148,7 +148,7 @@ body {
     width: 285px;
     height: 388px;
     background-size: 285px 388px;
-    background-image: url(././assets/pg1.png);
+    background-image: url(../assets/pg1.png);
     overflow: hidden;
 }
 
