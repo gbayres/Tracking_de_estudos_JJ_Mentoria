@@ -38,7 +38,7 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 74h25m</b>
+<b>Tempo parcial mensal (líquido): 75h49m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
@@ -47,7 +47,7 @@
 <ol>
     <li><i>(11:00 => 12:24)</i> Reunião com Gustavo</li>
     <hr>
-    <b>Tempo Total: xxhxxm </b>
+    <b>Tempo Total: 01h24m </b>
 </ol>
 
 <h3>20/10/2021</h3>
