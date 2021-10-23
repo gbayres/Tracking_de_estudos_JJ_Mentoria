@@ -38,11 +38,19 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 80h36m</b>
+<b>Tempo parcial mensal (líquido): 91h39m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
+<h3>23/10/2021</h3>
+<ol>
+    <li><i>(05:59 => 13:40)</i> Trabalhando na função highlight</li>
+    <li><i>(13:40 => 17:02)</i> Trabalhando na função highlight</li>
+    <hr>
+    <b>Tempo Total: 11h03m </b>
+</ol>
+
 <h3>22/10/2021</h3>
 <ol>
     <li><i>(16:40 => 21:27)</i> Trabalhando na função highlight</li>
