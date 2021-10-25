@@ -43,7 +43,7 @@
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
-<h3>24/10/2021</h3>
+<h3>25/10/2021</h3>
 <ol>
     <li><i>(06:17 => 06:40)</i> Trabalhando na função highlight</li>
     <li><i>(07:01 => 11:37)</i> Trabalhando na função highlight</li>
