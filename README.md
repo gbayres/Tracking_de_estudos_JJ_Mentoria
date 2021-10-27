@@ -6,6 +6,7 @@
     <li>[topDown] Planejar página simulado </li>
     <li>[bottomUp] Avançar no curso "Curso de JavaScript Completo do iniciante ao mestre (2021)"</li>
     <li>[bottomUp] Terminar o curso "Intermediate React, v3"</li>
+    <li><s>[topDown] Terminar a função highlight</s></li> 
     <li><s>[topDown] Terminar o módulo 6 do curso "Formação G4"</s></li> 
     <li><s>[topDown] Gerar ideias solicitadas e registrar no Monday</s></li>
     <li><s> [bottomUp] Terminar o curso "Complete Intro to React, v6" </s></li>
@@ -38,11 +39,18 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 106h23m</b>
+<b>Tempo parcial mensal (líquido): 109h47m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
+<h3>26/10/2021</h3>
+<ol>
+    <li><i>(18:32 => 21:56)</i> Code review da função highlight com o Mateus</li>
+    <hr>
+    <b>Tempo Total: 03h24m </b>
+</ol>
+
 <h3>25/10/2021</h3>
 <ol>
     <li><i>(06:17 => 06:40)</i> Trabalhando na função highlight</li>
