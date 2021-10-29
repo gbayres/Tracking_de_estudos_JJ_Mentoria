@@ -39,11 +39,31 @@
 <hr>
 
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 109h47m</b>
+<b>Tempo parcial mensal (líquido): 111h23m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
 <hr>
+<h3>29/10/2021</h3>
+<ol>
+    <li><i>(10:38 => 10:46)</i> Assistida aula "Typescript: introdução - Introdução" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(10:46 => 11:02)</i> Assistida aula "Typescript: introdução - Preparação e instalação" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(11:02 => 11:15)</i> Assistida aula "Typescript: introdução - Configuração" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(11:15 => 11:29)</i> Assistida aula "Typescript: introdução - Tipos primitivos e array" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(11:29 => 11:37)</i> Assistida aula "Typescript: introdução - Objetos" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(11:45 => 11:50)</i> Assistida aula "Typescript: introdução - Tuplas" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(11:50 => 11:54)</i> Assistida aula "Typescript: introdução - Enum" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(11:54 => 12:02)</i> Assistida aula "Typescript: introdução - Any vs Unknown" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(12:02 => 12:13)</i> Assistida aula "Typescript: introdução - Void vs never" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(12:13 => 12:15)</i> Assistida aula "Typescript: introdução - Null e undefined" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(12:15 => 12:21)</i> Assistida aula "Typescript: introdução - Union types" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(12:21 => 12:32)</i> Assistida aula "Typescript: introdução - Alias" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(12:32 => 12:40)</i> Assistida aula "Typescript: introdução - Interseção" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <hr>
+    <b>Tempo Total: 01h36m </b>
+</ol>
+
+
 <h3>26/10/2021</h3>
 <ol>
     <li><i>(18:32 => 21:56)</i> Code review da função highlight com o Mateus</li>
