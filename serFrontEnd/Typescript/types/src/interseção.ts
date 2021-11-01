@@ -1,11 +1,11 @@
-type User = {
-    name: string,
-    id: number
-}
+// type User = {
+//     name: string,
+//     id: number
+// }
 
-type Admin = {
-    isAdmin: true,
-    level: 0 | 1 | 2
-}
+// type Admin = {
+//     isAdmin: true,
+//     level: 0 | 1 | 2
+// }
 
-type UserAdmin = User & Admin;
+// type UserAdmin = User & Admin;

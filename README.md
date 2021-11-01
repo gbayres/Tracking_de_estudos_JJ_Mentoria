@@ -39,14 +39,21 @@
 <hr>
 
 <h2>Novembro</h2>
-<b>Tempo mensal parcial (líquido): 00h00m</b>
+<b>Tempo mensal parcial (líquido): 04h32m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 <h3>01/11/2021</h3>
 <ol>
-    <li><i>( => )</i> Assistida aula "Typescript: introdução - Introdução" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(08:40 => 09:00)</i> Assistida aula "Typescript: introdução - functions" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(09:00 => 09:20)</i> Daily Joint</li>
+    <li><i>(09:25 => 09:27)</i> Assistida aula "Typescript: introdução - remover redundâncias" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(09:27 => 09:33)</i> Assistida aula "Typescript: introdução - assertion" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(09:33 => 09:42)</i> Assistida aula "Typescript: introdução - testar no terminal" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(10:10 => 10:13)</i> Assistida aula "Typescript: introdução - Exercício proposto: Conversor de polegadas para centímetro" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(10:17 => 10:28)</i> Assistida aula "Typescript: introdução - preparação do ambiente" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <li><i>(16:19 => 19:40)</i> Trabalhando na rota de dignóstico"</li>
     <hr>
-    <b>Tempo Total: xxhxxm</b>
+    <b>Tempo Total: 04h32m</b>
 </ol>
 
 
