@@ -2,10 +2,10 @@
 
 <ol>
     <h2>Prioridades</h2>
-    <li>[topDown] Pesquisar curso Wordpress </li>
-    <li>[topDown] Planejar página simulado </li>
-    <li>[bottomUp] Avançar no curso "Curso de JavaScript Completo do iniciante ao mestre (2021)"</li>
+    <li>[topDown] Prototipar a página de diagnóstico após recebimento do material da equipe de UX </li>
+    <li>[bottomUp] Fazer a parte de Typescript do "Curso de JavaScript Completo do iniciante ao mestre (2021)"</li>
     <li>[bottomUp] Terminar o curso "Intermediate React, v3"</li>
+    <li>[topDown] Pesquisar curso Wordpress </li>
     <li><s>[topDown] Terminar a função highlight</s></li> 
     <li><s>[topDown] Terminar o módulo 6 do curso "Formação G4"</s></li> 
     <li><s>[topDown] Gerar ideias solicitadas e registrar no Monday</s></li>
@@ -38,8 +38,21 @@
 </ol>
 <hr>
 
+<h2>Novembro</h2>
+<b>Tempo mensal parcial (líquido): 00h00m</b>
+<br>
+<a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
+<h3>01/11/2021</h3>
+<ol>
+    <li><i>( => )</i> Assistida aula "Typescript: introdução - Introdução" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
+    <hr>
+    <b>Tempo Total: xxhxxm</b>
+</ol>
+
+
+<hr>
 <h2>Outubro</h2>
-<b>Tempo parcial mensal (líquido): 111h23m</b>
+<b>Tempo mensal (líquido): 111h23m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 
