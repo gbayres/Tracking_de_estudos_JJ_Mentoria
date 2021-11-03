@@ -39,9 +39,26 @@
 <hr>
 
 <h2>Novembro</h2>
-<b>Tempo mensal parcial (líquido): 17h49m</b>
+<b>Tempo mensal parcial (líquido): 23h53m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
+<h3>03/11/2021</h3>
+<ol>
+    <li><i>(06:32 => 09:00)</i> Trabalhando na tela de diagnóstico</li>
+    <li><i>(09:00 => 09:15)</i> Daily</li>
+    <li><i>(09:15 => 12:38)</i> Trabalhando na tela de diagnóstico</li>
+    <hr>
+    <b>Tempo Total: 06h06m</b>
+</ol>
+
+<h3>02/11/2021</h3>
+<ol>
+    <li><i>(06:01 => 14:21)</i> Trabalhando na tela de diagnóstico</li>
+    <li><i>(14:40 => 19:37)</i> Trabalhando na tela de diagnóstico</li>
+    <hr>
+    <b>Tempo Total: 13h17m</b>
+</ol>
+
 <h3>01/11/2021</h3>
 <ol>
     <li><i>(08:40 => 09:00)</i> Assistida aula "Typescript: introdução - functions" de "Curso de Javascript Completo do iniciante ao mestre (2021)"</li>
@@ -55,15 +72,6 @@
     <hr>
     <b>Tempo Total: 04h32m</b>
 </ol>
-
-<h3>02/11/2021</h3>
-<ol>
-    <li><i>(06:01 => 14:21)</i> Trabalhando na tela de diagnóstico</li>
-    <li><i>(14:40 => 19:37)</i> Trabalhando na tela de diagnóstico</li>
-    <hr>
-    <b>Tempo Total: 13h17m</b>
-</ol>
-
 
 <hr>
 <h2>Outubro</h2>
