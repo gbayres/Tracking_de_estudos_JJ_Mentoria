@@ -1,6 +1,11 @@
 <h1>21/T4</h1>
 
 <ol>
+    <h2>Jobs concluídos</h2>
+    <li>Função highlight => <b>52h21m</b></li>
+</ol>
+
+<ol>
     <h2>Prioridades</h2>
     <li>[topDown] Prototipar a página de diagnóstico após recebimento do material da equipe de UX </li>
     <li>[bottomUp] Fazer a parte de Typescript do "Curso de JavaScript Completo do iniciante ao mestre (2021)"</li>
