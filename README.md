@@ -44,9 +44,19 @@
 <hr>
 
 <h2>Novembro</h2>
-<b>Tempo mensal parcial (líquido): 23h53m</b>
+<b>Tempo mensal parcial (líquido): 35h33m</b>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
+<h3>04/11/2021</h3>
+<ol>
+    <li><i>(06:32 => 09:00)</i> Trabalhando na tela de diagnóstico + Discussão com a equipe de UX</li>
+    <li><i>(09:00 => 09:15)</i> Daily</li>
+    <li><i>(09:15 => 12:53)</i> Trabalhando na tela de diagnóstico</li>
+    <li><i>(17:37 => 22:54)</i> Trabalhando na tela de diagnóstico</li>
+    <hr>
+    <b>Tempo Total: 11h38m</b>
+</ol>
+
 <h3>03/11/2021</h3>
 <ol>
     <li><i>(06:32 => 09:00)</i> Trabalhando na tela de diagnóstico</li>
