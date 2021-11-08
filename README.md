@@ -49,9 +49,17 @@
 <a href="https://docs.google.com/spreadsheets/d/1SR8934UJJqcbh4N2ELGCEGreUI42kcPhVcsnQi9eLFY/edit?usp=sharing">Registro de horas</a>
 <h3>07/11/2021</h3>
 <ol>
-    <li><i>(05:46 => 13:07)</i> Trabalhando na tela de diagnóstico</li>
+    <li><i>(05:31 => 15:36)</i> Trabalhando na tela de diagnóstico</li>
     <hr>
-    <b>Tempo Total: 07h21m</b>
+    <b>Tempo Total: 10h05m</b>
+</ol>
+
+<h3>07/11/2021</h3>
+<ol>
+    <li><i>(05:46 => 13:07)</i> Trabalhando na tela de diagnóstico</li>
+    <li><i>(19:37 => 22:21)</i> Trabalhando na tela de diagnóstico</li>
+    <hr>
+    <b>Tempo Total: 10h05m</b>
 </ol>
 
 <h3>06/11/2021</h3>
